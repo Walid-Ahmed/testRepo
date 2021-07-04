@@ -1,4 +1,5 @@
 
+# A simple program
 hungry=input("Are you hungry?")
 
 if (hungry=="yes"):
